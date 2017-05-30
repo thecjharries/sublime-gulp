@@ -1,0 +1,19 @@
+{
+  "name": "sublime-gulp-with-typescript",
+  "version": "0.0.0",
+  "description": "Adding TS support",
+  "main": "write_tasks_to_cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thecjharries/sublime-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecjharries/sublime-gulp/issues"
+  },
+  "homepage": "https://github.com/thecjharries/sublime-gulp#readme"
+}

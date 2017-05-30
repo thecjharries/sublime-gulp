@@ -2,3 +2,5 @@
 *.sublime-workspace
 *.TODO
 .jshintrc
+node_modules
+npm-debug.log
