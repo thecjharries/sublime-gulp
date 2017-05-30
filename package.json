@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/thecjharries/sublime-gulp/issues"
   },
-  "homepage": "https://github.com/thecjharries/sublime-gulp#readme"
+  "homepage": "https://github.com/thecjharries/sublime-gulp#readme",
+  "devDependencies": {
+    "@types/bluebird": "^3.5.4",
+    "@types/fs-extra": "^3.0.2",
+    "@types/minimist": "^1.2.0",
+    "@types/node": "^7.0.22",
+    "@types/shelljs": "^0.7.1",
+    "bluebird": "^3.5.0",
+    "minimist": "^1.2.0",
+    "ts-node": "^3.0.4"
+  },
+  "dependencies": {
+    "fs-extra": "^3.0.1",
+    "shelljs": "^0.7.7"
+  }
 }
